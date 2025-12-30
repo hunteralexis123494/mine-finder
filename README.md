@@ -29,7 +29,7 @@ mine-finder/
 ## Sample Data
 
 `in1.txt` contains a 10x10 grid of zeros and ones (`1` indicates a mine) for testing the file input feature:
-
+```
 10 10
 0 0 0 0 0 0 0 0 1 0
 0 1 0 0 0 0 0 0 1 0
@@ -41,7 +41,7 @@ mine-finder/
 0 0 0 0 0 0 0 1 0 0
 0 0 0 0 0 0 0 1 0 0
 0 0 0 1 0 0 0 0 0 0
-
+```
 This allows testing the file-reading feature and demonstrating program functionality without generating a random board.
 
 ---
